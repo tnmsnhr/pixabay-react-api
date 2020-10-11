@@ -1,0 +1,20 @@
+.mycard{
+  cursor:pointer;
+  transition: all 0.25s;
+}
+
+
+.mycard:hover {
+    box-shadow: 5px 5px 20px rgba(0,0,0,0.3);
+    transform: scale(1.01,1.01);
+}
+
+.media {
+    height: 0;
+    padding-top: 56.25%;
+  }
+
+.avatar {
+    background: red;
+  }
+
